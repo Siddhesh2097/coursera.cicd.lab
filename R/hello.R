@@ -2,7 +2,7 @@
 #'
 #' @description Greet a person and appropriately capitalize their name.
 #'
-#' @param name Your name (character string; e.g. "john doe").
+#' @param name Your name (character string; e.g. "John doe").
 #'
 #' @return A character string, capitalized to title case.
 #' @export
